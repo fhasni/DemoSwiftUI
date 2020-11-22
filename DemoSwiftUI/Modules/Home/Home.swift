@@ -20,7 +20,7 @@ struct Home: View {
                 NavigationLink(
                     destination: StacksGrid(),
                     label: {
-                        Text("Stacks Grid (HStack & HStack)")
+                        Text("Stacks Grid (VStack & HStack)")
                     })
                 
                 NavigationLink(
