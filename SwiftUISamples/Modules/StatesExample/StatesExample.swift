@@ -35,7 +35,7 @@ struct StatesExample: View {
                 Text(("\(likesCount) likes"))
             }
         })
-        .foregroundColor(.black)
+        .foregroundColor(.primary)
     }
 }
 
